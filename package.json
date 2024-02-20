@@ -1,0 +1,19 @@
+{
+  "name": "reto-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernech/reto-3-devops-ms-contenedores.git"
+  },
+  "author": "Ernesto Vilela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ernech/reto-3-devops-ms-contenedores/issues"
+  },
+  "homepage": "https://github.com/Ernech/reto-3-devops-ms-contenedores#readme"
+}
