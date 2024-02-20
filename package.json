@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ernech/reto-3-devops-ms-contenedores/issues"
   },
-  "homepage": "https://github.com/Ernech/reto-3-devops-ms-contenedores#readme"
+  "homepage": "https://github.com/Ernech/reto-3-devops-ms-contenedores#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
