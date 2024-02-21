@@ -1,0 +1,10 @@
+services:
+  retoapp:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: reto-3
+    container_name: RetoApp
+    restart: always 
+    ports:
+      - "${PORT}:${PORT}"
