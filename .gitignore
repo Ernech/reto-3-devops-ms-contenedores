@@ -2,3 +2,4 @@ node_modules/
 comands.txt
 .env
 cloudFormation/
+AWSSAM/
